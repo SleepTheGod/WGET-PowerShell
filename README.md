@@ -1,2 +1,1 @@
-# WGET-PowerShell
-A WGET Tool For PowerShell
+The WGET-PowerShell script provides a versatile tool for downloading website content recursively in PowerShell. With the recent update, users can now take advantage of the Get-HelpCommands function to easily access information about available commands directly within the script. This enhancement aims to improve user experience by offering a quick reference to command functionalities. Additionally, a remote script execution example is provided in the README.md to guide users on fetching and executing the script directly from the GitHub repository. This feature allows for seamless script updates and ensures users have the latest version with added functionality. 
